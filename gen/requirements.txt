@@ -1,0 +1,6 @@
+pandas
+pygad
+base64
+streamlit
+flask
+deap
